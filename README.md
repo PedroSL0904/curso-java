@@ -26,4 +26,4 @@ Ejercicios prácticos para dominar el almacenamiento de datos.
     * 📚 `DetalleLibro.java`: Manejo de información mixta.
 
 ---
-*Hecho por [PedroSL0904](https://github.com/PedroSL0904) desde LaMamalona PC 💻*
+*Hecho por [PedroSL0904](https://github.com/PedroSL0904) desde PC 💻*
